@@ -41,7 +41,6 @@ The system architecture is illustrated in the diagram above. Here is a detailed 
 ## Tech Stack
 - **Next.js:** Frontend framework for building the user interface.
 - **Python:** Programming language used for backend development.
-- **Uvicorn:** ASGI server for running the FastAPI application.
 - **EC2:** Amazon Elastic Compute Cloud for running the Expense Tracker API container.
 - **Docker:** Containerization platform for deploying the application components.
 - **ECR:** Amazon Elastic Container Registry for storing Docker images.
