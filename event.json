@@ -1,0 +1,15 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "ledgerly-receipt-bucket"
+        },
+        "object": {
+          "key": "Screenshot 2025-02-07 193723.jpg"
+        }
+      }
+    }
+  ]
+}
+
